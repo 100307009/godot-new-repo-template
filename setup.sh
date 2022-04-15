@@ -1,6 +1,6 @@
 # made with ` ls -R | grep '\./'` in root dir
 
-git checkout -b master
+# git checkout -b master
 
 git lfs install
 git lfs track "*.psd"
