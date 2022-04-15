@@ -6,6 +6,9 @@ git lfs install
 git lfs track "*.psd"
 git lfs track "*.jpg"
 git lfs track "*.png"
+git lfs track "*.mp3"
+git lfs track "*.wav"
+git lfs track "*.ogg"
 
 mkdir -p ./Assets/Effects
 mkdir -p ./Assets/Actors
